@@ -217,11 +217,11 @@ img{
     row-gap: 2rem;
     text-align: center;
 }
-.about_img {
+.about_img{
   text-align: center;
 }
 
-.about_img img {
+.about_img img{
   width: 200px;
   height: 200px;
   border-radius: 50%;
